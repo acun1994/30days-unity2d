@@ -1,5 +1,3 @@
-Day 1 Content
+#Day 1 Content
 
-First installation: VSCode, Unity, C# Extension for VS Code, .NET SDK
-
-Reference: https://unity3d.com/learn/tutorials/s/tower-defense-template
+Today I focused on following the first interactive tutorial provided by Unity i.e. [here](https://unity3d.com/learn/tutorials/projects/interactive-tutorials/play-edit-mode?playlist=49382)
