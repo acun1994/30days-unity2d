@@ -1,3 +1,7 @@
+# Welcome
+
+Welcome to a beginner's attempt to learn Unity within 30 days, and hopefully have a completed demo game. The final aim is to produce a 2D Tower Defence game for Windows.
+
 # Resources and Other Download Stuff
 
 ## Software Used
@@ -14,6 +18,6 @@
 * https://unity3d.com/learn/tutorials/s/tower-defense-template
 
 ## Links to each day's stuff
-[Day 1](day1.md)
-[Day 2](day2.md)
-[Day 3](day3.md)
+* [Day 1](day1.md)
+* [Day 2](day2.md)
+* [Day 3](day3.md)
