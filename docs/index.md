@@ -18,6 +18,9 @@ Welcome to a beginner's attempt to learn Unity within 30 days, and hopefully hav
 * https://unity3d.com/learn/tutorials/s/tower-defense-template
 
 ## Links to each day's stuff
-* [Day 1](day1.md)
-* [Day 2](day2.md)
-* [Day 3](day3.md)
+{% assign doclist = site.data.list.docs | sort: 'title'  %}
+<ol>
+{% for item in doclist %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ol>
