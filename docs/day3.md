@@ -20,6 +20,8 @@ All Unity objects have a predefined size of 1x1(or 2)x1 units. As such, all scal
 
 # Changing a Look
 
+<img src="../images/Day3_1.jpg">
+
 GameObjects' visual appearances can be changed simply by using a Texture, or a Material (simpler). To apply a Material to a GameObject, simply select and drag the Material from the Project folder, to the target GameObject in the Scene Window.
 
 All Unity scenes come preloaded with a static directional light source. The light thrown by this source is uniform and comes from a set angle to all GameObjects.
