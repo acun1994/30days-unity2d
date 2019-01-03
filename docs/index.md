@@ -1,6 +1,5 @@
 ---
-title: A Noob's Journey into Gamedev
-description: A chronological record of one person's attempts to learn Unity
+page:index
 ---
 
 
