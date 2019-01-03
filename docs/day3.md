@@ -20,7 +20,7 @@ All Unity objects have a predefined size of 1x1(or 2)x1 units. As such, all scal
 
 # Changing a Look
 
-![Day 3 Progress - Basic Game Scene](/images/Day3_1.jpg)
+![Day 3 Progress - Basic Game Scene](30days-unity2d/images/Day3_1.JPG)
 
 GameObjects' visual appearances can be changed simply by using a Texture, or a Material (simpler). To apply a Material to a GameObject, simply select and drag the Material from the Project folder, to the target GameObject in the Scene Window.
 
