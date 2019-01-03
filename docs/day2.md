@@ -1,5 +1,5 @@
 ---
-page:day2
+page: day2
 ---
 
 # Day 2 Content
