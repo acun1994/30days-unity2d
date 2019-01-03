@@ -11,7 +11,7 @@ provided by Unity
 
 ### Basic Editor Controls and an Introduction to Scenes and Play
 
-**Scene**s represent the overall state of the game, including loaded assets.
+**Scenes** represent the overall state of the game, including loaded assets.
 
 The **Play window** on the other hand is the view shown to the player itself, and is controlled by a **GameCamera**.
 

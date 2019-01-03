@@ -13,7 +13,7 @@ provided by Unity
 
 **NavMeshAgent** is a component that is part of Unity's AI system. It includes **Obstacle Avoidance**, Speed and **Path Finding**.
 
-**Script**s on tthe other hand, control other behaviours of objects. You can define custom behaviours here, from simple movement, to timing, to your own AI system.
+**Script**s on the other hand, control other behaviours of objects. You can define custom behaviours here, from simple movement, to timing, to your own AI system.
 
 # Tutorial 1.4
 
