@@ -19,13 +19,14 @@ Welcome to a beginner's attempt to learn Unity within 30 days, and hopefully hav
 * https://code.visualstudio.com/docs/other/unity
 
 ## Reference: 
-* https://unity3d.com/learn/tutorials/s/interactive-tutorials
-* https://unity3d.com/learn/tutorials/s/tower-defense-template
+* Unity - Basic Interfaces - https://unity3d.com/learn/tutorials/s/interactive-tutorials
+* Unity - Simple Game Mechanics - https://unity3d.com/learn/tutorials/s/roll-ball-tutorial
+* Extra - Tower Defence Template - https://unity3d.com/learn/tutorials/s/tower-defense-template
 
 ## Links to each day's stuff
-{% assign doclist = site.data.list.docs | sort: 'title'  %}
-<ol>
-{% for item in doclist %}
+{% assign doclist = site.data.list.docs %}
+<ul>
+{% for item in doclist reversed %}
     <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
-</ol>
+</ul>
