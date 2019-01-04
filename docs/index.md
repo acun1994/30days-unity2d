@@ -15,12 +15,12 @@ Welcome to a beginner's attempt to learn Unity within 30 days, and hopefully hav
 * C# Extension for VS Code
 * .NET SDK
 
-## (Integration Unity x VS Code)[https://code.visualstudio.com/docs/other/unity]
+## [Integration Unity x VS Code](https://code.visualstudio.com/docs/other/unity)
 
 ## Reference: 
-* (Unity - Basic Interfaces)[https://unity3d.com/learn/tutorials/s/interactive-tutorials]
-* (Unity - Simple Game Mechanics)[https://unity3d.com/learn/tutorials/s/roll-ball-tutorial]
-* (Extra - Tower Defence Template)[https://unity3d.com/learn/tutorials/s/tower-defense-template]
+* [Unity - Basic Interfaces](https://unity3d.com/learn/tutorials/s/interactive-tutorials)
+* [Unity - Simple Game Mechanics](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
+* [Extra - Tower Defence Template](https://unity3d.com/learn/tutorials/s/tower-defense-template)
 
 ## Links to each day's stuff
 {% assign doclist = site.data.list.docs %}
