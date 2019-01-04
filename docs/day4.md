@@ -62,7 +62,7 @@ The above code block creates a force on the ball according to our inputs.
 
 # End of Day Progress
 
-![Day 4 Progress - Movable Ball](/30days-unity2d/images/Day4_1.apng)
+![Day 4 Progress - Movable Ball](/30days-unity2d/images/Day4_1.gif)
 
 
 # Quick Tips
