@@ -2,14 +2,22 @@ docs_list_title: Links to each day
 docs:
 
 - title: Day 1
+  desc: Setup Environment, IDE
   url: day1.html
 
 - title: Day 2
+  desc: Instancing Objects, Components
   url: day2.html
 
 - title: Day 3
+  desc: Creating GameObjects, Applying Materials
   url: day3.html
 
 - title: Day 4
+  desc: Attaching Scripts, Basic Physics
   url: day4.html
+
+- title: Day 5
+  desc: Camera Controls
+  url: day5.html
 
