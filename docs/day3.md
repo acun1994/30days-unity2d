@@ -1,6 +1,6 @@
 ---
 layout: default
-title: day3
+title: Day 3
 ---
 
 # Day 3 Content
