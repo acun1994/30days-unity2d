@@ -1,12 +1,20 @@
 ---
-layout: default
+layout: main
 title: 30 Days
 page: index
 ---
 
+<header>
 # Welcome
 
 Welcome to a beginner's attempt to learn Unity within 30 days, and hopefully have a completed demo game. The final aim is to produce a 2D Tower Defence game for Windows.
+</header>
+
+
+<div class="container">
+    <div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-5">
 
 # Resources and Other Download Stuff
 
@@ -32,3 +40,6 @@ Welcome to a beginner's attempt to learn Unity within 30 days, and hopefully hav
     <li><a href="{{ item.url }}">{{ item.title }} - {{ item.desc}}</a></li>
 {% endfor %}
 </ul>
+</div>
+<div class="col-md-2"></div>
+</div></div>
