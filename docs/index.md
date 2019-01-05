@@ -4,8 +4,6 @@ title: 30 Days
 page: index
 ---
 
-
-
 <div class="container">
 <div class = "row">
 <header>
