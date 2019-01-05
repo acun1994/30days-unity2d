@@ -1,13 +1,15 @@
 ---
 page: index
-classes: wide
 ---
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
 
 # Welcome
 
 Welcome to a beginner's attempt to learn Unity within 30 days, and hopefully have a completed demo game. The final aim is to produce a 2D Tower Defence game for Windows.
 
-<table><tr><td width = "40%">
+<div class="row">
+    <div class="col-md-6">
 
 # Resources and Other Download Stuff
 
@@ -24,8 +26,8 @@ Welcome to a beginner's attempt to learn Unity within 30 days, and hopefully hav
 * [Unity - Simple Game Mechanics](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
 * [Extra - Tower Defence Template](https://unity3d.com/learn/tutorials/s/tower-defense-template)
 
-
-</td><td width = "30%">
+    </div>
+    <div class="col-md-6">
 
 ## Links to each day's stuff
 {% assign doclist = site.data.list.docs %}
@@ -35,4 +37,5 @@ Welcome to a beginner's attempt to learn Unity within 30 days, and hopefully hav
 {% endfor %}
 </ul>
 
-</td></tr></table>
+    </div>
+</div>

@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: A Noob's Journey into Gamedev
 description: A chronological record of one person's attempts to learn Unity
+# Apply this change to _config.yml file
+kramdown:
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
