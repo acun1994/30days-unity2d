@@ -1,5 +1,6 @@
 ---
 page: index
+classes: wide
 ---
 
 # Welcome
