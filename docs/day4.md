@@ -30,8 +30,8 @@ You can also declare variables in C# classes. Public variables can be edited usi
 ## Getting Player Input
 
 ```
-    float moveHori = Input.GetAxis("Horizontal");
-    float moveVert = Input.GetAxis("Vertical");
+float moveHori = Input.GetAxis("Horizontal");
+float moveVert = Input.GetAxis("Vertical");
 ```
 
 The above code block gets and stores the horizontal and vertical axis tilt values into variables. This method is platform-agnostic; as such, it works with Joystick controls, and WASD on a keyboard.
@@ -39,23 +39,23 @@ The above code block gets and stores the horizontal and vertical axis tilt value
 ```
 public Rigidbody rb;
 
-    void Start(){
-        rb = GetComponent<Rigidbody>();
-    }
+void Start(){
+    rb = GetComponent<Rigidbody>();
+}
 ```
 
 The declaration of a RigidBody tells the game that you wish to interact with the RigidBody of the GameObject. Linking the script to the GameObject's RigidBody component is done as above.
 
 
 ```
-    void FixedUpdate(){
-        float moveHori = Input.GetAxis("Horizontal");
-        float moveVert = Input.GetAxis("Vertical");
+void FixedUpdate(){
+    float moveHori = Input.GetAxis("Horizontal");
+    float moveVert = Input.GetAxis("Vertical");
 
-        Vector3 mvmt = new Vector3(moveHori, 0.0f, moveVert);
+    Vector3 mvmt = new Vector3(moveHori, 0.0f, moveVert);
 
-        rb.AddForce(mvmt); 
-    }
+    rb.AddForce(mvmt); 
+}
 ```
 
 The above code block creates a force on the ball according to our inputs.
