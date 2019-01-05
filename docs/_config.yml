@@ -5,3 +5,6 @@ description: A chronological record of one person's attempts to learn Unity
 kramdown:
   # parse markdown inside block-level HTML tag
   parse_block_html: true
+
+sass:
+    style: :compressed

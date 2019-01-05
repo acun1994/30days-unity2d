@@ -1,5 +1,6 @@
 ---
-page: day4
+layout: default
+title: day4
 ---
 
 # Day 4 Content
