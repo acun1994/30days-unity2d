@@ -5,16 +5,16 @@ page: index
 ---
 
 <header>
+
 # Welcome
 
 Welcome to a beginner's attempt to learn Unity within 30 days, and hopefully have a completed demo game. The final aim is to produce a 2D Tower Defence game for Windows.
 </header>
 
-
 <div class="container">
-    <div class="row">
-    <div class="col-md-1"></div>
-    <div class="col-md-5">
+<div class="row">
+<div class="col-md-1"></div>
+<div class="col-md-5">
 
 # Resources and Other Download Stuff
 
