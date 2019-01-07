@@ -24,3 +24,7 @@ docs:
 - title: Day 6
   desc: Setting Up a Play Field
   url: day6.html
+
+- title: Day 7
+  desc: Creating Pickups
+  url: day7.html
