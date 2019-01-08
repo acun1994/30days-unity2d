@@ -7,7 +7,7 @@ title: Day 8
 
 ## User Interface
 
-Being UI creation by Creating a UI element from the Hierarchy window. You will see 3 items pop up: Canvas, Text, and Event System. All UI Text must be a child of a Canvas Object for it to behave properly.
+Begin UI creation by Creating a UI element from the Hierarchy window. You will see 3 items pop up: Canvas, Text, and Event System. All UI Text must be a child of a Canvas Object for it to behave properly.
 
 To change the position/anchoring of the Text, click the box shaped icon on the top left of the Rect Transform Component. You will most likely want to change the Pivot and Position of the Text as well, so hold 'Shift' and 'Alt' while selecting a new anchor position. You can change the default text in the Text component.
 
