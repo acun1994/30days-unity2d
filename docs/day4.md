@@ -5,8 +5,6 @@ title: Day 4
 
 # Day 4 Content
 
-Continuing the [tutorial](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial) to create a basic game from scratch.
-
 ## Physics
 
 For a GameObject to be able to react according to physics, we first need a RigidBody component. 
