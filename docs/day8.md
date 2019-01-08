@@ -31,7 +31,8 @@ To hide or show Text, you can either toggle the enabled property of the Text, or
 ```
 winTxt.enabled = false;
 ```
+<a href = "/30days-unity2d/builds/Roller Build 1.zip" download="Dev Build Roller">Download Completed Build </a>
 
 ![Day 8 Progress - Complete Level](/30days-unity2d/images/Day8_1.gif)
 
-<a href = "/30days-unity2d/builds/Roller.exe" download="download">Download Completed Build </a>
+
