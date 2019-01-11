@@ -9,7 +9,7 @@ Now using the [Space Shooter tutorial](https://unity3d.com/learn/tutorials/s/spa
 
 ## Lighting
 
-To create lightings, one uses the Directional Light. a Directional Light shines light on all surfaces in a scene from a single direction. As such, its location doesn't really matter,only its rotation, as this defines from where the light will shine. You can change the light intensity and colour from the Inspector window.
+To create lightings, one can use the Directional Light. A Directional Light shines light on all surfaces in a scene from a single direction. As such, its location doesn't really matter,only its rotation, as this defines from where the light will shine. You can change the light intensity and colour from the Inspector window.
 
 ## Movement and 3D Rotation
 
