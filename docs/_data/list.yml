@@ -32,3 +32,15 @@ docs:
 - title: Day 8
   desc: User Interface Elements
   url: day8.html
+
+- title: Day 9
+  desc: Manipulating Lighting and 3D Rotation
+  url: day9.html
+
+- title: Day 10
+  desc: Spawning Projectiles
+  url: day10.html
+
+- title: Day 11
+  desc: -
+  url: day11.html
