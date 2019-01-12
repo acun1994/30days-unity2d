@@ -30,7 +30,7 @@ docs:
   url: day7.html
 
 - title: Day 8
-  desc: User Interface Elements
+  desc: User Interface Elements (Simple Text)
   url: day8.html
 
 - title: Day 9
@@ -42,5 +42,9 @@ docs:
   url: day10.html
 
 - title: Day 11
-  desc: ''
+  desc: Limiting Game Area
   url: day11.html
+
+- title: Day 12
+  desc: Spawning Obstacles
+  url: day12.html
