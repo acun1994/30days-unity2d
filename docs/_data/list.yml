@@ -48,3 +48,8 @@ docs:
 - title: Day 12
   desc: Spawning Obstacles
   url: day12.html
+
+- title: Day 13
+  desc: Randomizing Movement, Recursive Spawn
+  url: day13.html
+
