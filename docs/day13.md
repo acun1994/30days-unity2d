@@ -34,6 +34,8 @@ void Update(){
 }
 ```
 
+Heading is a marker GameObject. It is used to provide an initial heading for the asteroids, so that they kinda converge in the center of the screen. It is then randomly rotated within a range of +- 20 degrees, to spread them out a bit.
+
 ## Spawning Smaller Asteroids on Explosion
 ```
 if (nestLevel > 1){
