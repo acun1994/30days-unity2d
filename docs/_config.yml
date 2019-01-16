@@ -8,3 +8,5 @@ kramdown:
 
 sass:
     style: :compressed
+
+baseurl: /30days-unity2d
