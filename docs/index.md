@@ -33,6 +33,9 @@ Welcome to a beginner's attempt to learn Unity within 30 days, and hopefully hav
 * [Unity - Further Mechanics](https://unity3d.com/learn/tutorials/s/space-shooter-tutorial)
 * [Extra - Tower Defence Template](https://unity3d.com/learn/tutorials/s/tower-defense-template)
 
+## Links to completed games
+* [Space Shooter](SpaceShooter.html)
+
 </div><div class="col-md-4">
 
 ## Links to each day's stuff

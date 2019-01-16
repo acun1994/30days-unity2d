@@ -53,3 +53,14 @@ docs:
   desc: Randomizing Movement, Recursive Spawn
   url: day13.html
 
+- title: Day 14
+  desc: Coroutines and Wait
+  url: day14.html
+
+  - title: Day 15
+  desc: Adding Audio
+  url: day15.html
+
+  - title: Day 16
+  desc: Resetting Gamestate and Keeping Track
+  url: day16.html

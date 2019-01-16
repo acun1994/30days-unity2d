@@ -8,6 +8,8 @@ title: Day 13
 ![Day 13 Progress - Space Shooter](/30days-unity2d/images/Day13_1.gif)
 
 ## Randomizing Fall Vectors
+
+Used in a spawner control GameObject
 ```
 public GameObject asteroid;
 public Transform center;
@@ -37,6 +39,8 @@ void Update(){
 Heading is a marker GameObject. It is used to provide an initial heading for the asteroids, so that they kinda converge in the center of the screen. It is then randomly rotated within a range of +- 20 degrees, to spread them out a bit.
 
 ## Spawning Smaller Asteroids on Explosion
+
+Used in the Destroy code of the Asteroid GameObject
 ```
 if (nestLevel > 1){
     List<GameObject> astChild = new List<GameObject>();
